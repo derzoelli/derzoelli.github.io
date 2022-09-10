@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
   info = "This is a test"
   description = "Robin's personal website"
   keywords = "blog,developer,personal"
-  
+  gravatar = "mail@robinzoellner.com"
   since = 2019
 
 
