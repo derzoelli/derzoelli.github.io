@@ -1,0 +1,23 @@
+baseurl = "http://derzoelli.github.com"
+title = "robinzoellner"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[params]
+  author = "Robin Zoellner"
+  info = "This is a test"
+  description = "Robin's personal website"
+  keywords = "blog,developer,personal"
+  
+  since = 2019
+
+
+  colorScheme = "auto"
