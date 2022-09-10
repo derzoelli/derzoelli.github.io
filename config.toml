@@ -17,7 +17,21 @@ pygmentscodefencesguesssyntax = true
   description = "Robin's personal website"
   keywords = "blog,developer,personal"
   gravatar = "mail@robinzoellner.com"
-  since = 2019
+  since = 2022
 
 
   colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/derzoelli/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 2
+  url = "https://twitter.com/robinzoellner/"
+  
