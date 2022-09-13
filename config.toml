@@ -34,4 +34,9 @@ pygmentscodefencesguesssyntax = true
   icon = "fa fa-twitter fa-2x"
   weight = 2
   url = "https://twitter.com/robinzoellner/"
+  [[params.social]]
+  name = "Instagram"
+  icon = "fa fa-instagram fa-2x"
+  weight = 3
+  url = "https://www.instagram.com/robinzoellner/"
   
