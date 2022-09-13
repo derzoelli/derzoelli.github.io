@@ -19,6 +19,9 @@ pygmentscodefencesguesssyntax = true
   gravatar = "mail@robinzoellner.com"
   since = 2022
 
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
 
   colorScheme = "auto"
   hidecolorschemetoggle = false
