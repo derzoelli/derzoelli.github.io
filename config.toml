@@ -30,17 +30,17 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
   name = "Github"
   icon = "fa fa-github fa-2x"
-  weight = 1
+  weight = 3
   url = "https://github.com/derzoelli/"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
-  weight = 2
+  weight = 1
   url = "https://twitter.com/robinzoellner/"
   [[params.social]]
   name = "Insta"
   icon = "fa fa-instagram fa-2x"
-  weight = 3
+  weight = 2
   url = "https://www.instagram.com/robinzoellner/"
   [[params.social]]
   name = "Spotify"
