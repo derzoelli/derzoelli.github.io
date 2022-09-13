@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Robin Zoellner"
-  info = "This is a test"
+  info = "Hey! I'm Robin and you can find me on here"
   description = "Robin's personal website"
   keywords = "blog,developer,personal"
   gravatar = "mail@robinzoellner.com"
