@@ -37,17 +37,17 @@ pygmentscodefencesguesssyntax = true
   icon = "fa fa-twitter fa-2x"
   weight = 1
   url = "https://twitter.com/robinzoellner/"
-  [[params.social]]
+[[params.social]]
   name = "Instagram"
   icon = "fa fa-instagram fa-2x"
   weight = 2
   url = "https://www.instagram.com/robinzoellner/"
-  [[params.social]]
+[[params.social]]
   name = "Spotify"
   icon = "fa fa-spotify fa-2x"
   weight = 4
   url = "https://open.spotify.com/user/robinzoellner?si=a0b6621e2d024b6c"
-  [[params.social]]
+[[params.social]]
   name = "Mail"
   icon = "fa fa-envelope-o fa-2x"
   weight = 5
